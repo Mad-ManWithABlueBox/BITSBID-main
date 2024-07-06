@@ -1,0 +1,17 @@
+com/manas/bidbits/Bids/BidController.class
+com/manas/bidbits/Bids/BidRepository.class
+com/manas/bidbits/Messages/MessageRepository.class
+com/manas/bidbits/Messages/MessageController.class
+com/manas/bidbits/Users/UserModel.class
+com/manas/bidbits/Messages/MessageModel.class
+com/manas/bidbits/Products/ProductController.class
+com/manas/bidbits/Bids/BidService.class
+com/manas/bidbits/Bids/BidModel.class
+com/manas/bidbits/Products/ProductRepository.class
+com/manas/bidbits/Products/ProductModel.class
+com/manas/bidbits/Users/UserController.class
+com/manas/bidbits/Users/UserRepository.class
+com/manas/bidbits/Users/UserService.class
+com/manas/bidbits/OopsProjectApplication.class
+com/manas/bidbits/Messages/MessageService.class
+com/manas/bidbits/Products/ProductService.class
